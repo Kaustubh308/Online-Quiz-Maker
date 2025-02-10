@@ -28,6 +28,7 @@ Cloud Services: AWS / Google Cloud / Azure (Planned)
 Scalability: Supports vertical & horizontal scaling
 
 Screenshots
+![image](https://github.com/user-attachments/assets/a999bb26-2272-45b6-b46d-25e03f116ccd)
 
 📂Project Structure
 /online-quiz-maker
