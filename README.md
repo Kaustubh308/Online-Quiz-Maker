@@ -50,15 +50,25 @@ Screenshots
 📂Project Structure
 
 /online-quiz-maker
+
 ├── backend/                # Java Spring Boot backend
+
 │   ├── src/main/java       # Main application code
+
 │   ├── src/main/resources  # Configuration files
+
 │   └── pom.xml             # Maven dependencies
+
 ├── frontend/               # React/Angular frontend
+
 │   ├── src/                # UI components & logic
+
 │   ├── public/             # Static assets
+
 │   └── package.json        # Dependencies
+
 ├── database/               # Database scripts & configurations
+
 └── README.md               # Project documentation
 
 📈 Future Enhancements
