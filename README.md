@@ -1,5 +1,6 @@
 # Online-Quiz-Maker
-Project Overview
+
+📌Project Overview
 The Online Quiz Maker is a web-based application designed to streamline the process of creating, managing, and taking quizzes online. It offers an intuitive platform for educators, business trainers, and organizations to conduct assessments efficiently.
 
 🚀 Features:
@@ -25,4 +26,30 @@ Client-Side Validation: JavaScript / TypeScript
 ☁️ Hosting & Deployment:
 Cloud Services: AWS / Google Cloud / Azure (Planned)
 Scalability: Supports vertical & horizontal scaling
+
+Screenshots
+
+📂Project Structure
+/online-quiz-maker
+├── backend/                # Java Spring Boot backend
+│   ├── src/main/java       # Main application code
+│   ├── src/main/resources  # Configuration files
+│   └── pom.xml             # Maven dependencies
+├── frontend/               # React/Angular frontend
+│   ├── src/                # UI components & logic
+│   ├── public/             # Static assets
+│   └── package.json        # Dependencies
+├── database/               # Database scripts & configurations
+└── README.md               # Project documentation
+
+📈 Future Enhancements
+Integration with AI-powered question generation
+Leaderboards & Gamification features
+Mobile app version
+Cloud-based deployment with auto-scaling
+
+📜 License
+This project is licensed under the MIT License – feel free to use and modify it.
+
+
 
